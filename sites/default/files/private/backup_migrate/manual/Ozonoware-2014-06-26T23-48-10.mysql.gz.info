@@ -1,0 +1,8 @@
+filename = "Ozonoware-2014-06-26T23-48-10"
+description = ""
+datestamp = "1403844490"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.26"
+sites[0][name] = "Ozonoware"
+sites[0][url] = "http://htdocs/"

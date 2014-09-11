@@ -1,0 +1,79 @@
+.breadcrumb {
+  color: #fff;
+}
+.breadcrumb a {
+  color: #a7a7a7;
+}
+.horizontal-tabs {
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  clear: both;
+}
+.horizontal-tabs ul.horizontal-tabs-list {
+  background: #006296;
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+}
+.horizontal-tabs ul.horizontal-tabs-list li {
+  background: #006296;
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+}
+.horizontal-tabs ul.horizontal-tabs-list li a {
+  color: #fff;
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+}
+.horizontal-tabs ul.horizontal-tabs-list li a:hover {
+  background: #fff;
+  color: #000;
+}
+.not-front #main-content,
+.not-front #primary,
+.not-front #sidebar {
+  padding-top: 0;
+}
+#masthead {
+  padding: 0 20px;
+}
+.mainmenu {
+  padding-top: 0;
+}
+.searchbox {
+  text-align: right;
+  padding-right: 35px;
+}
+.searchbox .form-text {
+  width: 50%;
+  margin-top: 20px;
+}
+#bottom {
+  background: url("images/backgroundfooter.png") repeat-x 0 0 transparent;
+  border: none;
+}
+.footer-block {
+  color: #eee;
+}
+#content .node-teaser {
+  border-bottom: 1px solid #84b33c;
+}
+.breadcrumb {
+  background-color: #e4e4e4;
+}
+h1.page-title {
+  color: #006296;
+}
+.webform-client-form #edit-submitted-motivo {
+  width: 40%;
+}
+.webform-client-form #edit-submit {
+  background: #88b53e;
+  color: #fff;
+  border: none;
+  padding: 5px 40px;
+  font-weight: normal;
+  font-size: 2em;
+}
+.webform-client-form #edit-submit:hover {
+  background: #006296;
+}
