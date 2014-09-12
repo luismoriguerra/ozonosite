@@ -215,10 +215,10 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'castimor_ozono',
-      'username' => 'castimor_ozono',
-      'password' => '123',
-      'host' => 'localhost',
+      'database' => 'ozonoware',
+      'username' => 'root',
+      'password' => '',
+      'host' => '127.0.0.1',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
